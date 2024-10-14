@@ -1,0 +1,1 @@
+Git lokális repository létrehozása
